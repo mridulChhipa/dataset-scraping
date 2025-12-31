@@ -1,0 +1,8 @@
+pandas
+python-dotenv
+pydantic
+langchain-google-genai
+langchain-core
+paddleocr
+paddlepaddle-gpu
+# Use paddlepaddle instead of paddlepaddle-gpu if you don't have a CUDA GPU

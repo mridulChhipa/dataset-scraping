@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Generated Output folders
+**/output/
+
+# Binary dependencies
+**/poppler/
+
+# Datasets
+**/datasets/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Handout.pdf
