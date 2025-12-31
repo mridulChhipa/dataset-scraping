@@ -30,7 +30,6 @@ If you have an api key with enough usage available just change the start page `s
 ### Notebooks
 *   `Context Aware Extration.ipynb`: The main notebook implementing the context-aware extraction logic (handling page breaks).
 *   `Improved Extraction.ipynb`: An iteration containing improvements to the extraction prompts and logic.
-*   `Service_Record_Extraction.ipynb`: The initial notebook for setting up the extraction pipeline.
 
 ### Output CSVs
 *   `Page_8_9_ContextAware_Text_only.csv`: Result of the context-aware extraction on pages 8 & 9 (using text-only prompt).
