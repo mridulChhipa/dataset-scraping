@@ -51,6 +51,7 @@ message = HumanMessage(content=[
 ```
 
 ## Setup & Configuration
+**Note:** All the three tasks have been accomplished in the `.ipynb` files and not the .py files. The `.py` files are currently being tested.
 
 If you are cloning this repository to run the code locally, please ensure you configure the following:
 
