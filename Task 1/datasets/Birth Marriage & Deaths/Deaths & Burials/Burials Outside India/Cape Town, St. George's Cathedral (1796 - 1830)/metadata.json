@@ -1,0 +1,10 @@
+{
+  "dataset_name": "Cape Town, St. George's Cathedral (1796 - 1830)",
+  "original_url": "https://search.fibis.org/bin/aps_browse_sources.php?mode=browse_dataset&id=701&s_id=828",
+  "expected_record_count": 49,
+  "actual_record_count": 49,
+  "category": "Birth Marriage & Deaths > Deaths & Burials > Burials Outside India",
+  "index_access": "members only",
+  "dataset_access": "publicly available",
+  "scraped_at": "2025-12-30 15:00:23"
+}

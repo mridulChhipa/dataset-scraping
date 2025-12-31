@@ -1,0 +1,10 @@
+{
+  "dataset_name": "Civil Registration of Deaths in Chandernagore (1865-1899)",
+  "original_url": "https://search.fibis.org/bin/aps_browse_sources.php?mode=browse_dataset&id=225&s_id=376",
+  "expected_record_count": 403,
+  "actual_record_count": 403,
+  "category": "Birth Marriage & Deaths > Deaths & Burials > Chandernagore Civil",
+  "index_access": "members only",
+  "dataset_access": "publicly available",
+  "scraped_at": "2025-12-30 15:01:37"
+}

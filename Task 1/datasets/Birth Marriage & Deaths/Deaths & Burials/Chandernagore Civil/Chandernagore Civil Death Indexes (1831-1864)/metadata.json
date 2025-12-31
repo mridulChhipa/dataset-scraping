@@ -1,0 +1,10 @@
+{
+  "dataset_name": "Chandernagore Civil Death Indexes (1831-1864)",
+  "original_url": "https://search.fibis.org/bin/aps_browse_sources.php?mode=browse_dataset&id=223&s_id=376",
+  "expected_record_count": 1008,
+  "actual_record_count": 1008,
+  "category": "Birth Marriage & Deaths > Deaths & Burials > Chandernagore Civil",
+  "index_access": "members only",
+  "dataset_access": "publicly available",
+  "scraped_at": "2025-12-30 15:01:15"
+}

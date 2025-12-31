@@ -19,7 +19,6 @@ __pycache__/
 **/poppler/
 
 # Datasets
-**/datasets/
 
 # OS generated files
 .DS_Store

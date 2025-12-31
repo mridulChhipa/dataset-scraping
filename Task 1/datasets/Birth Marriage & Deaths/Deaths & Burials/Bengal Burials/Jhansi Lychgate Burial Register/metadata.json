@@ -1,0 +1,10 @@
+{
+  "dataset_name": "Jhansi Lychgate Burial Register",
+  "original_url": "https://search.fibis.org/bin/aps_browse_sources.php?mode=browse_dataset&id=1004&s_id=874",
+  "expected_record_count": 1698,
+  "actual_record_count": 1698,
+  "category": "Birth Marriage & Deaths > Deaths & Burials > Bengal Burials",
+  "index_access": "members only",
+  "dataset_access": "publicly available",
+  "scraped_at": "2025-12-30 14:58:03"
+}

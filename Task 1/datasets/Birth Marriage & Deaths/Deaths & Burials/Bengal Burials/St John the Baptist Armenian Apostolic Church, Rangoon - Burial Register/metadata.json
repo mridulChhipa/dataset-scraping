@@ -1,0 +1,10 @@
+{
+  "dataset_name": "St John the Baptist Armenian Apostolic Church, Rangoon - Burial Register",
+  "original_url": "https://search.fibis.org/bin/aps_browse_sources.php?mode=browse_dataset&id=2524&s_id=874",
+  "expected_record_count": 426,
+  "actual_record_count": 426,
+  "category": "Birth Marriage & Deaths > Deaths & Burials > Bengal Burials",
+  "index_access": "members only",
+  "dataset_access": "publicly available",
+  "scraped_at": "2025-12-30 14:58:44"
+}

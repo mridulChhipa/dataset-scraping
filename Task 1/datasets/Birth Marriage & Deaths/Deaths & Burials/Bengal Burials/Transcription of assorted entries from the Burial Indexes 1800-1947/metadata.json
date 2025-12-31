@@ -1,0 +1,10 @@
+{
+  "dataset_name": "Transcription of assorted entries from the Burial Indexes 1800-1947",
+  "original_url": "https://search.fibis.org/bin/aps_browse_sources.php?mode=browse_dataset&id=104&s_id=216",
+  "expected_record_count": 1312,
+  "actual_record_count": 1312,
+  "category": "Birth Marriage & Deaths > Deaths & Burials > Bengal Burials",
+  "index_access": "members only",
+  "dataset_access": "publicly available",
+  "scraped_at": "2025-12-30 14:59:52"
+}
